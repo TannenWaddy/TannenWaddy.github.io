@@ -1,5 +1,7 @@
 # TannenWaddy 的个人博客
 
+[English](README.en.md) | [Русский](README.ru.md) | [繁體中文（香港）](README.zh-HK.md) | [繁體中文（台灣）](README.zh-TW.md)
+
 > 本网站刚刚开始搭建，尚未开发完成，敬请期待
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
