@@ -1,6 +1,6 @@
 # TannenWaddy 的个人博客
 
-[EN English](README.en.md) | [ZH-HK 繁體中文（香港）](README.zh-HK.md) | [ZH-TW 繁體中文（台灣）](README.zh-TW.md) | [RU Русский](README.ru.md) | [SR Српски](README.sr.md) | [ES Español](README.es.md)
+[English <sub>EN</sub>](README.en.md) | [繁體中文（香港） <sub>ZH-HK</sub>](README.zh-HK.md) | [繁體中文（台灣） <sub>ZH-TW</sub>](README.zh-TW.md) | [Русский <sub>RU</sub>](README.ru.md) | [Српски <sub>SR</sub>](README.sr.md) | [Español <sub>ES</sub>](README.es.md)
 
 > 本网站刚刚开始搭建，尚未开发完成，敬请期待
 
