@@ -4,11 +4,12 @@
 
 🌐 在线访问：<https://tannenwaddy.github.io/>
 
-![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=flat-square)
-![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=flat-square&logo=pnpm)
-![SolidJS](https://img.shields.io/badge/SolidJS-v1.9-2C4F7C?style=flat-square&logo=solid)
-![TypeScript](https://img.shields.io/badge/TypeScript-v7.0-blue?style=flat-square&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-v7.1-646CFF?style=flat-square&logo=vite)
+![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
+![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![SolidJS](https://img.shields.io/badge/SolidJS-v1.9-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-v7.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-v7.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-v66.5-333333?style=for-the-badge&logo=unocss&logoColor=white)
 
 ## 本地开发
 
