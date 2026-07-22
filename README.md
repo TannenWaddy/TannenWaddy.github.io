@@ -1,36 +1,34 @@
-## Usage
+# TannenWaddy 的个人博客
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+我的个人博客网站，基于 **SolidJS + Vite** 框架，使用 **UnoCSS** 编写样式，部署在 GitHub Pages。
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+🌐 在线访问：<https://tannenwaddy.github.io/>
+
+## 技术栈
+
+- [SolidJS](https://solidjs.com) — 响应式 UI 框架
+- [Vite](https://vite.dev) — 构建与开发工具
+- [UnoCSS](https://unocss.dev) — 原子化 CSS 引擎
+- [TypeScript](https://www.typescriptlang.org) — 类型支持
+- [pnpm](https://pnpm.io) — 包管理器
+- GitHub Actions + GitHub Pages — 自动构建与部署
+
+## 本地开发
 
 ```bash
-$ npm install # or pnpm install or yarn install
+# 安装依赖
+pnpm install
+
+# 启动开发服务器（http://localhost:3000）
+pnpm dev
+
+# 构建生产版本到 dist/
+pnpm build
+
+# 本地预览构建产物
+pnpm serve
 ```
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+## 部署
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev` or `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
-
-## This project was created with the [Solid CLI](https://github.com/solidjs-community/solid-cli)
+push 到 `main` 分支后，GitHub Actions 会自动构建并发布到 GitHub Pages。
