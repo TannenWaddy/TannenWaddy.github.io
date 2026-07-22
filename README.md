@@ -1,6 +1,5 @@
 # TannenWaddy 的个人博客
 
-
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![SolidJS](https://img.shields.io/badge/SolidJS-v1.9-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)
@@ -33,6 +32,7 @@ clone 会自动配置好远程仓库 `origin`，可直接提交推送。
 
 ```bash
 pnpm i
+pnpm approve-builds
 pnpm dev
 ```
 
