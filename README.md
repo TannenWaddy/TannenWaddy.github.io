@@ -1,8 +1,5 @@
 # TannenWaddy 的个人博客
 
-我的个人博客网站，基于 **SolidJS + Vite** 框架，使用 **UnoCSS** 编写样式，部署在 GitHub Pages。
-
-🌐 在线访问：<https://tannenwaddy.github.io/>
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -12,22 +9,37 @@
 ![UnoCSS](https://img.shields.io/badge/UnoCSS-v66.5-333333?style=for-the-badge&logo=unocss&logoColor=white)
 [![Edit in WebStorm](https://img.shields.io/badge/Edit_in-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
-## 本地开发
+## 快速开始
+
+### 1. 使用模板新建仓库
+
+在本仓库页面点击 **Use this template** → **Create a new repository**：
+
+- 部署到 `https://<用户名>.github.io`：仓库名必须填 `<用户名>.github.io`，无需额外配置
+- 部署到 `https://<用户名>.github.io/<仓库名>`：仓库名任意，同时需在 `vite.config.ts` 的 `defineConfig` 中添加 `base: '/<仓库名>/'`
+
+模板生成的是全新仓库，只有一个初始提交，不含本仓库的历史。
+
+### 2. 克隆到本地
 
 ```bash
-# 安装依赖
-pnpm install
-
-# 启动开发服务器（http://localhost:3000）
-pnpm dev
-
-# 构建生产版本到 dist/
-pnpm build
-
-# 本地预览构建产物
-pnpm serve
+git clone https://github.com/<用户名>/<仓库名>.git
+cd <仓库名>
 ```
 
-## 部署
+clone 会自动配置好远程仓库 `origin`，可直接提交推送。
 
-push 到 `main` 分支后，GitHub Actions 会自动构建并发布到 GitHub Pages。
+### 3. 安装依赖并开发
+
+```bash
+pnpm i
+pnpm dev
+```
+
+浏览器打开终端提示的地址即可预览，修改代码自动热更新。
+
+### 4. 部署到 GitHub Pages
+
+在仓库 **Settings** → **Pages** → **Source** 选择 **GitHub Actions**。此后每次推送到 `main` 分支都会自动构建并发布。
+
+
