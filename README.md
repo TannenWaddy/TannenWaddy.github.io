@@ -4,14 +4,11 @@
 
 🌐 在线访问：<https://tannenwaddy.github.io/>
 
-## 技术栈
-
-- [SolidJS](https://solidjs.com) — 响应式 UI 框架
-- [Vite](https://vite.dev) — 构建与开发工具
-- [UnoCSS](https://unocss.dev) — 原子化 CSS 引擎
-- [TypeScript](https://www.typescriptlang.org) — 类型支持
-- [pnpm](https://pnpm.io) — 包管理器
-- GitHub Actions + GitHub Pages — 自动构建与部署
+![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=flat-square)
+![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=flat-square&logo=pnpm)
+![SolidJS](https://img.shields.io/badge/SolidJS-v1.9-2C4F7C?style=flat-square&logo=solid)
+![TypeScript](https://img.shields.io/badge/TypeScript-v7.0-blue?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-v7.1-646CFF?style=flat-square&logo=vite)
 
 ## 本地开发
 
