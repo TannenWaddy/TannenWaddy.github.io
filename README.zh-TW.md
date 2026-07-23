@@ -2,7 +2,7 @@
 
 > 本網站剛剛開始搭建，尚未開發完成，敬請期待。
 >
-> 本文件由 Kimi K3 模型翻譯，如發現翻譯問題，歡迎提交 Issue。
+> 本文件由 Kimi K3 模型翻譯，如發現翻譯不準確，歡迎提交 PR 告訴我正確的翻譯。
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)

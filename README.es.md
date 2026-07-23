@@ -2,7 +2,7 @@
 
 > Este sitio acaba de crearse y aún está en desarrollo. Mantente atento.
 >
-> Traducido por el modelo Kimi K3. Si encuentras algún problema de traducción, por favor abre un Issue.
+> Traducido por el modelo Kimi K3. Si encuentras alguna traducción inexacta, por favor envía un PR para informarme de la traducción correcta.
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)

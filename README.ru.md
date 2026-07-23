@@ -2,7 +2,7 @@
 
 > Сайт только начал создаваться и ещё находится в разработке. Следите за обновлениями.
 >
-> Переведено моделью Kimi K3. Если вы обнаружили ошибки в переводе, пожалуйста, создайте Issue.
+> Переведено моделью Kimi K3. Если вы обнаружили неточности в переводе, пожалуйста, отправьте PR с правильным переводом.
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)

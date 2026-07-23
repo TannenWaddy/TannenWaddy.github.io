@@ -2,7 +2,7 @@
 
 > Овај сајт је тек постављен и још је у развоју. Пратите даље.
 >
-> Превео модел Kimi K3. Ако пронађете било какве грешке у преводу, отворите Issue.
+> Превео модел Kimi K3. Ако пронађете нетачности у преводу, пошаљите PR да ми кажете тачан превод.
 
 ![License](https://img.shields.io/github/license/TannenWaddy/TannenWaddy.github.io?color=blue&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-v11.15-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
